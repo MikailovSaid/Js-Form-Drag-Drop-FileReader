@@ -1,0 +1,53 @@
+/* .main{
+    width: 250px;
+    margin-left: 500px;
+    margin-top: 240px;
+}
+.main input{
+    width: 250px;
+}
+.main span{
+    font-size: 12px;
+    padding-left: 5px;
+} */
+
+
+
+/* Drag Drop */
+
+/* .item{
+    width: 150px;
+    height: 150px;
+    
+}
+#drag-elem1{
+    background-color: black;
+}
+#drag-elem2{
+    background-color: teal;
+}
+#drag-elem3{
+    background-color: hotpink;
+}
+#drop-area{
+    width: 800px;
+    height: 450px;
+    background-color: antiquewhite; 
+    float: right;
+} */
+
+
+
+/* Upload file */
+
+.upload{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(189, 189, 189);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.upload input {
+    width: 138px;
+}
